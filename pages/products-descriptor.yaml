@@ -10,4 +10,8 @@ displayedInMenu: false
 seo: false
 charset: utf8
 status: published
-widgets: []
+widgets: [
+  - code: search_form
+    config: null
+    pos: 0
+]
