@@ -9,6 +9,7 @@ components:
     - widgets/back_to_seed-descriptor.yaml
     - widgets/brand_insurance-descriptor.yaml
     - widgets/credit_card_user_apply_form-descriptor.yaml
+    - widgets/entando-widget-navigation_bar-descriptor.yaml
     - widgets/find-atm-descriptor.yaml
     - widgets/footer-descriptor.yaml
     - widgets/footer-insurance-descriptor.yaml
@@ -32,7 +33,6 @@ components:
     - fragments/default_pagerblock-descriptor.yaml
     - fragments/default_pagerformblock_is-descriptor.yaml
     - fragments/default_pagerinfo_is-descriptor.yaml
-    - fragments/entando_widget_navigation_bar-descriptor.yaml
     - fragments/entando_widget_navigation_bar_include-descriptor.yaml
     - fragments/entandoapi_is_resource_detail-descriptor.yaml
     - fragments/entandoapi_is_resource_detail_include-descriptor.yaml
