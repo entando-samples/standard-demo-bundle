@@ -1,28 +1,25 @@
 # Standard Demo Bundle
 
-### Disclaimer:
-This is not supposed to be installable by Entando Repository Manager.
-This is a dump used for understanding the contents inside the latest version of the Standard Demo
-and to show as an example of the capabilities of extraction of the entando-bundle-cli and how you
-should compose your bundles based on these extracted components.
-
-### env.json
-```
-{
-    "coreBaseApi": "http://quickstart-flex.apps.rd.entando.org/entando-de-app",
-    "k8ssvcApi": "http://quickstart-eci-flex.apps.rd.entando.org/k8s",
-    "clientId": "entando-bundle-cli",
-    "clientSecret": "<insert_secret_here>"
-}
-```
+This is a fully working Entando Bundle for recreating the Standard Demo Experience.
+Just install this using `entando-component-manager >= 6.3.0`
 
 ### Dump Command:
-This is a dump using [entando-bundle-cli](https://github.com/entando-k8s/entando-bundle-cli) and the following environment:
+This bundle was 95% generated using [entando-bundle-cli](https://github.com/entando-k8s/entando-bundle-cli) and extracting most components from the following environment:
 ```
 $ entando-bundle from-env \
     --env env.json \
     --code standard-demo-bundle \
     --description "Standard Demo Bundle"
+```
+
+*env.json*
+```
+{
+    "coreBaseApi": "http://quickstart-entando.apps.rd.entando.org/entando-de-app",
+    "k8ssvcApi": "http://quickstart-eci-entando.apps.rd.entando.org/k8s",
+    "clientId": "entando-bundle-cli",
+    "clientSecret": "<insert_secret_here>"
+}
 ```
 
 or use the interactive command to execute the cli interactive version:
