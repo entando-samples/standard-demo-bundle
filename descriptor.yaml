@@ -2,17 +2,16 @@ code: standard-demo-bundle
 description: Standard Demo Bundle
 components:
   widgets:
-    - widgets/brand-logo-descriptor.yaml
+    - widgets/brand_logo-descriptor.yaml
     - widgets/breadcrumb-descriptor.yaml
     - widgets/login_buttons-descriptor.yaml
     - widgets/apply_form_banner-descriptor.yaml
     - widgets/back_to_seed-descriptor.yaml
     - widgets/brand_insurance-descriptor.yaml
     - widgets/credit_card_user_apply_form-descriptor.yaml
-    - widgets/entando-widget-navigation_bar-descriptor.yaml
-    - widgets/find-atm-descriptor.yaml
+    - widgets/find_atm-descriptor.yaml
     - widgets/footer-descriptor.yaml
-    - widgets/footer-insurance-descriptor.yaml
+    - widgets/footer_insurance-descriptor.yaml
     - widgets/insurance_login-descriptor.yaml
     - widgets/language_choose-descriptor.yaml
     - widgets/list_item-descriptor.yaml
@@ -20,7 +19,7 @@ components:
     - widgets/search_form-descriptor.yaml
     - widgets/seeds_card-descriptor.yaml
     - widgets/seeds_card_ng-descriptor.yaml
-    - widgets/seedscard-transaction-table-descriptor.yaml
+    - widgets/seedscard_transaction_table-descriptor.yaml
     - widgets/signup-descriptor.yaml
   pageModels:
     - pageModels/dashboard-descriptor.yaml
@@ -33,6 +32,7 @@ components:
     - fragments/default_pagerblock-descriptor.yaml
     - fragments/default_pagerformblock_is-descriptor.yaml
     - fragments/default_pagerinfo_is-descriptor.yaml
+    - fragments/entando_widget_navigation_bar-descriptor.yaml
     - fragments/entando_widget_navigation_bar_include-descriptor.yaml
     - fragments/entandoapi_is_resource_detail-descriptor.yaml
     - fragments/entandoapi_is_resource_detail_include-descriptor.yaml
