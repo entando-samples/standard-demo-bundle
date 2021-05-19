@@ -40,12 +40,12 @@ attributes:
     elements:
       - code: links
         value:
-          symbolicDestination: '#!P;products!#'
-          destType: 2
           urlDest: null
           pageDest: products
           contentDest: null
           resourceDest: null
+          symbolicDestination: '#!P;products!#'
+          destType: 2
         values:
           en: Products
         elements: []

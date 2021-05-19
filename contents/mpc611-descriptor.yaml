@@ -44,12 +44,12 @@ attributes:
     elements:
       - code: links
         value:
-          symbolicDestination: '#!P;seed_insurances!#'
-          destType: 2
           urlDest: null
           pageDest: seed_insurances
           contentDest: null
           resourceDest: null
+          symbolicDestination: '#!P;seed_insurances!#'
+          destType: 2
         values:
           en: Contact us
         elements: []

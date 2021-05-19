@@ -42,10 +42,6 @@
   titles:
     en: Manage Users
     it: Gestione Utenti
-- key: ELSF_SUBSITE
-  titles:
-    en: Subsite
-    it: Subsite
 - key: ENTANDO_API_DESCRIPTION
   titles:
     en: Description
@@ -330,22 +326,6 @@
   titles:
     en: Next
     it: Avanti di
-- key: PAGE_MODEL
-  titles:
-    en: page model
-    it: modello pagina
-- key: PAGE_NOT_FOUND
-  titles:
-    en: Page not found
-    it: Pagina non trovata
-- key: PAGE_TITLE
-  titles:
-    en: page title
-    it: titolo pagina
-- key: PASSWORD
-  titles:
-    en: Password
-    it: Password
 - key: READ_MORE
   titles:
     en: Read More
