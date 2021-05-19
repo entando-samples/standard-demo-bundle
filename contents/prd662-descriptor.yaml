@@ -70,6 +70,7 @@ attributes:
             values:
               en:
                 correlationCode: '663'
+                name: Paragraph_Image_d0.png
             elements: []
             compositeelements: []
             listelements: {}
@@ -98,12 +99,12 @@ attributes:
     elements:
       - code: links
         value:
-          symbolicDestination: '#!U;http://www.google.it!#'
-          destType: 1
           urlDest: 'http://www.google.it'
           pageDest: null
           contentDest: null
           resourceDest: null
+          symbolicDestination: '#!U;http://www.google.it!#'
+          destType: 1
         values:
           en: Discover more
         elements: []

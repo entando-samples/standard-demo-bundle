@@ -1,5 +1,5 @@
 id: 13
-contentType: BNR
+contentType: SDB
 description: Interest 3 card title - 2nd banner
 contentShape: |-
   <div class="interest-features">
@@ -12,7 +12,7 @@ contentShape: |-
                   #foreach ($item in $content.accord)  
                   <div class="col-12 col-lg-4">
                       <div class="text-center">
-                          <img class="benefits-features-logo" src="$item.aimg.getImagePath('0')" alt="$item.img.text" />
+                          <img class="benefits-features-logo" src="$item.aimg.getImagePath('0')" alt="$item.aimg.text" />
                           <h3>$item.atitle.text</h3>
                           <p>$item.asubtitle.text</p>
                       </div>

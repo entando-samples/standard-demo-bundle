@@ -1,5 +1,5 @@
 code: credit_card
-parentCode: homepage
+parentCode: homepagesd
 titles:
   en: Credit card
   it: Carta di credito
@@ -23,12 +23,12 @@ widgets:
   - code: content_viewer
     config:
       modelId: '8'
-      contentId: BNR80
+      contentId: SDB80
     pos: 5
   - code: content_viewer
     config:
       modelId: '7'
-      contentId: BNR85
+      contentId: SDB85
     pos: 6
   - code: credit_card_user_apply_form
     config: null
