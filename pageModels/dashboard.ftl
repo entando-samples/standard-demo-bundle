@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="utf-8"/>
-    <title><@wp.currentPage param="title" /> - <@wp.i18n key="STANDARD_DEMO" /></title>
+    <title><@wp.currentPage param="title" /> - <@wp.i18n key="SD_STANDARD_DEMO" /></title>
     
     <meta name="viewport" content="width=device-width, user-scalable=no"/>
     
@@ -84,7 +84,7 @@
                             <a class="nav-link" href="<@wp.url page="mortgages_and_lending" />">Mortgages and Lending</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="<@wp.url page="dashboard" />"><@wp.i18n key="MY_DASHBOARD" /></a>
+                            <a class="nav-link" href="<@wp.url page="dashboard" />"><@wp.i18n key="SD_MY_DASHBOARD" /></a>
                         </li>
                     </#if>
                 </ul>
