@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8" />
     <title>
-        <@wp.currentPage param="title" /> - <@wp.i18n key="STANDARD_DEMO_INSURANCE" />
+        <@wp.currentPage param="title" /> - <@wp.i18n key="SD_STANDARD_DEMO_INSURANCE" />
     </title>
     <meta name="viewport" content="width=device-width,  user-scalable=no" />
     <meta name="description" content="" />
