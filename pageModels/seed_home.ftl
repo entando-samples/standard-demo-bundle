@@ -7,7 +7,7 @@
     <meta name="description" content="" />
     <meta name="author" content="" />
     <link rel="icon" href="<@wp.info key="systemParam" paramName="applicationBaseURL" />favicon.png" type="image/png" />
-    <@wp.fragment code="insurance_inclusions" escapeXml=false />
+    <@wp.fragment code="standard_demo_inclusions" escapeXml=false />
 </head>
 <body>
 <@wp.fragment code="keycloak_auth" escapeXml=false/>
