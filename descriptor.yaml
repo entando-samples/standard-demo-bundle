@@ -28,6 +28,7 @@ components:
     - fragments/angular-descriptor.yaml
     - fragments/insurance_inclusions-descriptor.yaml
     - fragments/insurance_inclusions_footer-descriptor.yaml
+    - fragments/standard_demo_inclusions-descriptor.yaml
   pages:
     - pages/homepagesd-descriptor.yaml
     - pages/dashboard-descriptor.yaml
